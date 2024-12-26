@@ -55,10 +55,10 @@ Follow these steps to set up the project locally:
 
 ## Libraries Used
 
-React.js
-Firebase
-TMDb API
-React Toastify
+- **React.js**
+- **Firebase**
+- **TMDb API**
+- **React Toastify**
 
 ## Future Improvements
 
@@ -85,6 +85,6 @@ Contributions are welcome! Follow these steps to contribute:
 
 ## Acknowledgements
 
-Thanks to TMDb for providing the movie dataset.
-Thanks to Firebase for authentication and backend support.
+- **Thanks to TMDb for providing the movie dataset.**
+- **Thanks to Firebase for authentication and backend support.**
 
