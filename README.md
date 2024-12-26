@@ -47,17 +47,23 @@ Follow these steps to set up the project locally:
    ```bash
     npm start
 
+---
+
 ## Setup TMDb API
 
 1. Go to TMDb and create an account if you don’t already have one.
 2. Generate an API key from your TMDb account settings.
 3. Add the API key to your .env file as shown above.
 
+---
+
 ## Setup Firebase
 
 1. Go to Firebase Console and create a new project.
 2. Enable Authentication in the Firebase console.
 3. Add your Firebase credentials to the .env file.
+
+---
 
 ## Libraries Used
 
@@ -66,11 +72,15 @@ Follow these steps to set up the project locally:
 - **TMDb API**
 - **React Toastify**
 
+---
+
 ## Future Improvements
 
 1. Add a search functionality to find movies by name.
 2. Add a "Watchlist" feature for saving favorite movies.
 3. Improve UI/UX for a better user experience.
+
+---
 
 ## Contributing
 
@@ -87,6 +97,8 @@ Contributions are welcome! Follow these steps to contribute:
    ```bash
     git push origin feature-name
 5. Open a pull request.
+
+---
 
 ## Acknowledgements
 
